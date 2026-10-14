@@ -1,0 +1,20 @@
+# SLE-4 Contribution Log
+
+## AI Contribution
+
+- AI helped draft the Architecture Decision Record (ADR) for the 8-Puzzle Solver.
+- AI helped explain why Breadth-First Search (BFS) was selected instead of Depth-First Search (DFS).
+- AI helped organize the ADR sections, including context, decision, alternatives, rationale, and consequences.
+- AI helped write the final solver code (`sle4_8puzzle_adr.py`).
+- AI helped conduct and organize the additional scaling experiment.
+- AI helped explain the profiling results and comparison between BFS and DFS.
+
+## My Contribution
+
+- I selected BFS based on my previous SLE-2 profiling and SLE-3 architecture work.
+- I checked the reported numbers against my SLE-2 report.
+- I verified that the code uses the class and function names from my SLE-3 design.
+- I ran the solver script and checked the results.
+- I reviewed the alternatives and design decisions explained in the ADR.
+- I prepared my own answers for the viva and made sure I understood the design decisions.
+
